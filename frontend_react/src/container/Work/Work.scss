@@ -142,4 +142,11 @@
     background-color: #fff;
     top: -25px;
   }
+
+  @media screen and (min-width: 2000px) {
+    h4 {
+      margin-top: 1rem;
+      line-height: 1.5;
+    }
+  }
 }
