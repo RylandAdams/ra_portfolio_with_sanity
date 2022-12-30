@@ -37,7 +37,6 @@ A React Frontend with a Sanity Backend that allows me to add feedback, projects,
 -   <a href="https://babeljs.io/">Babel</a>
 -   <a href="https://eslint.org/">Eslint</a>
 -   <a href="https://www.sanity.io/">Sanity</a>
--   <a href="">Crypto API</a>
 
 # 💾 Installation Requirements
 
