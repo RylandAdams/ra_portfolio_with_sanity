@@ -1,4 +1,4 @@
-# <div align="center">Cryptoverse</div>
+# <div align="center">My Personal Portfolio</div>
 
 <p align="center">
     <br>
@@ -8,12 +8,12 @@
 </p>
 
 <p align="center">
-  <small>Last Updated: December 21st, 2022</small>
+  <small>Last Updated: December 30th, 2022</small>
 </p>
 
 # ℹ️ Description
 
-A React site that gives users all the current and past market value for all cryptocurrencies as well as all news related to each! 
+A React Frontend with a Sanity Backend that allows me to add feedback, projects, and skills with ease!
 
 # 🧑‍💻 Contributers
 
